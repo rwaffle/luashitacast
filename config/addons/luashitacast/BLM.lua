@@ -5,6 +5,21 @@ gcinclude = gFunc.LoadFile('common\\gcinclude.lua');
 
 sets = T{
     Idle = {
+        main = 'Terra\'s Staff',
+        sub = 'Bugard Strap +1',
+        ammo = 'Phtm. Tathlum',
+        head = 'Src. Petasos +1'
+        body = 'Src. Coat +1,
+        hands = 'Zenith Mitts',
+        legs = 'Mahatma Slops',
+        feet = 'Rostrum Pumps',
+        neck = 'Elemental Torque',
+        waist = 'Hierarch Belt',
+        ear1 = 'Loquac. earring',
+        ear2 = 'Moldavite Earring',
+        ring1 = 'Tamas Ring',
+        ring2 = 'Snow Ring',
+        back = 'Prism Cape',
     },
 	Resting = {
     },
